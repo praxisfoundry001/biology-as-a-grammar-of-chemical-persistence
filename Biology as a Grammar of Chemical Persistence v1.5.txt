@@ -1,0 +1,963 @@
+﻿Biology as a Grammar of Chemical Persistence: 
+What Entropy Could Not Finish – A Structural Flow Perspective 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abstract
+This paper reframes biology as a late, narrow regime of chemical persistence under entropy, deriving its structural necessities from a single premise: Chance exists. From this, entropy emerges as memory erasure under repeated interaction, persistence becomes fragile without reinforcement, recursive persistence propagates as cascades, boundary maintenance counters erosion, finite capacity forces copying, and failure under constraint produces filtering. No teleology, no privilege, no new principles are introduced. Biology appears purposeful—self-preservation, function, reproduction, adaptation—only retrospectively, as the visible residue of prolonged exposure to entropy without collapse.
+The framework does not predict mechanisms, specify molecules, or claim inevitability of life. It constrains what any persistent biological system must satisfy: recursive reinforcement, continuity via cascades, boundary maintenance, copying under limits, and differential persistence through failure. Rarity is structural—failure space vastly exceeds success space—not probabilistic accident.
+Falsifiability is explicit: demonstrate persistence without recursion, cascades without continuity, maintenance without capacity limits, copying without filtering, or regimes that violate these necessities without collapse. Absent such counterexamples, the conclusions are not speculative; they are unavoidable consequences of chance permitting retry without guaranteed persistence.
+This non-reductionist structural grammar relocates biology's explanatory base within chemistry, accounting for apparent directionality and complexity without invoking purpose or exemption from entropy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Statement of Scope and Falsifiability
+This paper makes no empirical predictions and proposes no mechanisms. It derives structural necessities from a single minimal premise:
+
+
+Chance exists. Chance guarantees retry, not success.
+
+
+All subsequent claims are conditional.
+If Chance does not exist—if interactions are fully determined, memory-preserving, and guaranteed to persist—then entropy does not arise, persistence is not rare, boundaries are not forced, and the framework collapses.
+If Chance exists, then the sequence derived here follows non-optionally. Accordingly, this framework stands or falls on a single falsification condition:
+
+
+* Demonstrate a universe in which Chance does not exist.
+
+
+Short of that, within the scope of this paper, refutation must proceed structurally: by identifying a persistence regime that violates one of the derived necessities without collapsing.
+Examples include, but are not limited to:
+
+
+* persistence that continues indefinitely without reinforcing its own conditions,
+* continuity that propagates without cascading constraint,
+* cascades that persist without boundary maintenance,
+* boundary-maintained persistence that exceeds capacity without copying,
+* copying regimes that are not filtered by failure under entropy.
+
+If such systems exist, the framework must be revised.
+If they do not, then the conclusions here are not speculative.
+They are consequences.
+What This Is — and Is Not
+This paper does not claim inevitability of life. It claims inevitability of certain structural behaviors wherever persistence succeeds.
+It does not argue that biology must arise. It argues that biology, where it does arise, cannot avoid the grammar derived here.
+It does not replace chemistry, molecular biology, genetics, or evolutionary theory. It identifies a structural grammar those fields already presuppose when persistence succeeds.
+Disagreement is welcome. Refutation is invited. But it must operate at the level of structure, not preference.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 1 — Persistence Becomes Recursive
+Persistence is rare.
+In a medium governed by repeated interaction under entropy, most structures dissolve without consequence. Bonds form and break. Configurations arise and vanish. Events leave no trace. Nothing accumulates authority simply by occurring.
+Where persistence does occur, it does so by resisting entropy long enough to matter. A structure that persists retains memory. That retained difference alters the probabilities of subsequent interaction. This is the minimal sense in which persistence acquires forward authority.
+Forward authority, however, is fragile. Persistence that merely lasts does not secure its own continuation. It remains exposed to the same erasure that dissolved everything else.
+If persistence has not yet failed, it must confront this constraint.
+Forward Authority Is Insufficient
+A structure that persists reshapes local interaction space simply by being present. Its continued existence biases future interactions relative to a baseline in which it was absent. This bias does not require intent, design, or function. It is a consequence of difference that lasts.
+But forward authority alone does not protect persistence.
+A structure may persist briefly while leaving the conditions of its own continuation unchanged. In such cases, persistence remains contingent on external circumstances. When those circumstances shift, the structure collapses without resistance.
+Persistence that does not affect the conditions that allow it to persist remains vulnerable. It survives only until entropy reasserts itself.
+This vulnerability is not accidental. It is structural.
+The Necessity of Feedback
+If persistence continues across repeated interactions, it encounters an unavoidable asymmetry.
+Some persistent configurations alter future interactions in ways that incidentally support their continuation. Others do not. Where both exist, persistence that reinforces the conditions of its own survival will, on average, last longer than persistence that does not.
+This does not require selection, competition, or optimization. It follows from exposure to entropy.
+Persistence that fails to secure its own conditions remains dependent on chance alignment. Persistence that reshapes those conditions reduces its exposure to erasure.
+If persistence continues at all, this difference matters.
+Recursive Persistence
+Recursive persistence is persistence that biases future interactions in ways that specifically reinforce the boundary conditions that allowed it to persist.
+This is not a new principle.
+It is persistence responding to its own fragility.
+The distinction is structural, not mechanistic. It concerns what persistence must accomplish to continue, not how any particular configuration does so.
+
+
+   * Simple persistence alters probabilities by existing.
+   * Recursive persistence alters probabilities in ways that reinforce its own continuation.
+
+
+If both regimes are present, recursive persistence will outlast simple persistence. Not because it is better, but because it is less exposed.
+This outcome is not guaranteed. Most attempts fail. But where persistence continues, feedback specificity becomes structurally favored.
+No Teleology, No Privilege
+Recursive persistence does not imply intention, purpose, or self-preservation as a goal. It does not require awareness, agency, or function.
+It is not life.
+It is a response to structural vulnerability under entropy.
+Configurations that reinforce the conditions of their own persistence last longer than those that do not. That is the entire claim.
+Nothing more has been introduced.
+A Regime Shift, Not a Leap
+With recursive persistence, something has changed.
+Persistence is no longer entirely at the mercy of external conditions. It has begun to reshape the interaction space that governs its own survival.
+This does not eliminate entropy.
+
+
+   * It does not guarantee success.
+   * It does not introduce biology.
+
+It marks the emergence of a new persistence regime — one in which continuation is no longer purely incidental.
+If persistence has not yet failed, it cannot remain indifferent to its own conditions.
+From this point forward, persistence either becomes recursive, or it collapses.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 2 — Cascades, Not Organisms
+Recursive persistence alters the conditions of its own continuation.
+That alteration does not remain local.
+Where persistence reshapes interaction space, it does so across sequences of events. Retained structure affects not just what happens next, but what can happen after that. Persistence extends forward authority through time by constraining how interactions unfold.
+If persistence has not yet failed, it must confront this consequence:
+
+
+      * Persistence does not persist as an isolated event. It persists as continuity.
+From Persistence to Continuity
+A single persistent configuration has limited reach. Its influence ends where its presence ends. But recursive persistence reshapes probabilities in ways that extend beyond a single moment.
+Once interaction probabilities are biased, subsequent interactions are no longer independent. They become linked.
+Persistence therefore propagates not as a static thing, but as a sequence of constrained interactions.
+This sequence is not designed.It is not coordinated. It is not directed toward an end.
+It is simply what happens when retained structure continues to matter.
+Cascades Defined
+A cascade is a directional sequence of interactions in which retained structure at one step reshapes the probability space of the next.
+Cascades are:
+
+
+      * not entities
+      * not agents
+      * not bounded wholes
+      * not purposeful processes
+
+
+They are continuities enforced by persistence under entropy. Where persistence is recursive, cascades are unavoidable.
+Why Organisms Cannot Be Primitive
+If persistence operates through cascades, then organisms cannot be the starting point of explanation.
+Organisms presuppose continuity:
+
+
+      * of structure, of boundary conditions, of internal processes, of repair.
+
+
+But continuity itself requires explanation.
+Cascades provide that explanation without introducing new assumptions.
+Organism-centric thinking is therefore deferred deliberately. It is not denied — it is postponed until it becomes unavoidable.
+Function as Continuity
+What biology later calls “function” appears, at this level, as cascade continuation.
+An interaction that contributes to the persistence of a cascade will recur more often than one that does not. Not because it is useful, but because it remains embedded in sequences that continue.
+Function is not introduced here. It is recognized as an effect of persistence.
+Nothing acts in order to persist. What persists is what does not yet fail.
+Direction Without Purpose
+Cascades are directional without being goal-directed.
+They exhibit asymmetry because retained structure biases future interaction space. Once a sequence begins to propagate, its continuation alters what can follow.
+This produces directionality without intention and order without design.
+Entropy is not opposed. It remains active at every step.
+Most cascades terminate quickly. A few extend further.
+That extension is not progress. It is exposure that has not yet collapsed.
+No New Assumptions
+Cascades do not require life. They do not require metabolism. They do not require reproduction. They require only:
+
+
+      * persistence,
+      * retained structure,
+      * and continued interaction under entropy.
+
+
+Where these conditions obtain, cascades are unavoidable.
+If persistence has not yet failed, it must now propagate as continuity — or end.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 3 — Metabolism as Boundary Maintenance
+Cascades propagate continuity. They do not protect it.
+Persistence that extends across sequences remains exposed to erosion at every step. Retained structure does not accumulate in a vacuum. It persists within a medium governed by entropy, where boundaries dissolve unless actively resisted.
+If cascades persist at all, they must confront this constraint:
+
+
+      * Boundaries decay. Continuity alone is not enough.
+Erosion Is Not Optional
+Entropy erases retained structure through repeated interaction. Mixing, diffusion, disruption, and dilution operate continuously wherever boundaries are not protected.
+A cascade that merely propagates without compensating for erosion will fragment. Continuity will thin. Eventually, persistence collapses.
+This outcome is not contingent. It is structural.
+Where cascades persist beyond trivial duration, erosion must be countered.
+Boundary Maintenance as Necessity
+Boundary maintenance is not introduced as a function, strategy, or adaptation.
+It is forced by persistence under entropy.
+A boundary that separates inside from outside creates asymmetry. That asymmetry enables retained structure to matter. But asymmetry decays unless reinforced.
+If cascades persist, they must include processes that:
+
+
+      * repair erosion,
+      * re-establish gradients,
+      * or compensate for loss.
+
+
+Without such processes, persistence ends.
+Structural Reframing
+At this level of description, what biology later calls metabolism appears as boundary maintenance under entropy.
+This is not a biochemical definition. It does not specify pathways, substrates, or reactions.
+Structurally:
+
+
+      * Metabolism is the set of chemical processes that keep boundaries from failing.
+      * Anything that does not contribute to boundary maintenance does not persist long enough to matter.
+Surplus Is Not Excess
+Persistence often appears to generate surplus: accumulation, growth, complexity, elaboration.
+Structurally, no surplus exists. Any apparent excess must be doing one of three things:
+
+
+      * Boundary reinforcement — strengthening resistance to erosion
+      * Boundary extension — increasing protected volume
+      * Preparation for boundary propagation — enabling persistence beyond current limits
+
+
+Nothing else can persist. What does not contribute to one of these outcomes is removed by entropy.
+Maintenance Without Purpose
+Boundary maintenance does not imply intention, optimization, or regulation as a goal.
+It is not homeostasis in the normative sense. It is compensation for unavoidable loss.
+Processes that restore asymmetry recur because without them, persistence ends. Not because they are chosen, but because they are required.
+Most maintenance regimes fail. A few endure longer.
+Their endurance reflects exposure that has not yet collapsed, not success by design.
+A Narrowing Corridor
+With boundary maintenance, the persistence regime has narrowed.
+Cascades that cannot maintain boundaries terminate. Cascades that maintain boundaries remain admissible.
+Nothing biological has appeared yet. But something has become unavoidable.
+If persistence continues across cascades, boundary maintenance must occur — or persistence ends.
+There is no third option.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 4 — Reproduction as Boundary Copying
+Boundary maintenance preserves persistence. It does not extend it indefinitely.
+Every boundary has limits: of size, of repair capacity, of exposure, of tolerable erosion. No maintained enclosure can expand without bound. No cascade can accumulate indefinitely within a single protected volume without dilution or collapse.
+If boundary-maintained cascades persist at all, they must confront this constraint:
+
+
+      * Persistence eventually exceeds the capacity of a single boundary.
+Finite Capacity Is Structural
+Boundaries are not abstract containers. They are physical separations that resist entropy only within limits.
+As cascades continue, one of two outcomes follows:
+
+
+      * the boundary ceases to accommodate further persistence, or
+      * persistence must extend beyond the existing boundary.
+
+
+There is no third option.
+Boundary maintenance can delay collapse. It cannot remove capacity constraints.
+The Necessity of Copying
+When persistence exceeds the capacity of a single boundary, continuation requires boundary duplication.
+This duplication is not purpose-driven. It is not oriented toward continuation as a goal.
+It is a response to spatial and structural constraint.
+Structurally:
+
+
+      * Reproduction is the copying of boundary conditions that allow a cascade to continue beyond the limits of a single enclosure.
+
+
+Nothing else can extend persistence past finite capacity.
+Copying Without Privilege
+Boundary copying does not require design, intention, or fidelity.
+It requires only that some aspects of a persistence regime recur in a new protected region often enough to matter.
+Most copies fail. Many collapse immediately. A few persist long enough to register.
+Copying is not success. It is exposure multiplied.
+Constraint Inheritance
+What is inherited in boundary copying is not information in the abstract sense.
+What persists is constraint configuration:
+
+
+      * the arrangement of boundaries, gradients, and interaction biases that previously resisted entropy.
+
+
+This inheritance is imperfect by necessity. Entropy erases precision. Exact duplication is structurally disfavored.
+Variation is not introduced here. It is unavoidable.
+Reproduction Is Not a Goal
+Reproduction is not a defining feature of life at this level. It is a structural consequence of finite boundary capacity.
+Persistence that does not exceed a single boundary need not copy. Persistence that does must.
+Copying does not ensure continuation. It only permits it.
+A New Exposure Regime
+With boundary copying, persistence has changed again.
+It now exists across multiple enclosures, each subject to erosion, failure, and collapse. The number of persistence attempts increases, but so does the number of failure points.
+Nothing has been optimized. Nothing has improved.
+Persistence has only multiplied its exposure.
+If boundary-maintained cascades continue, copying is unavoidable. And with copying, failure becomes unavoidable as well.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 5 — Selection as Structural Filtering
+Boundary copying multiplies persistence. It also multiplies failure.
+Once persistence extends across multiple boundaries, each instance becomes an independent site of exposure to entropy. Erosion does not diminish. It scales.
+If copying occurs at all, persistence must now confront this consequence:
+
+
+      * Most copies will fail.
+Failure Is Not Accidental
+Failure does not require misdesign, insufficiency, or error. It follows from exposure.
+Each copied boundary encounters:
+
+
+      * erosion,
+      * disruption,
+      * dilution,
+      * and loss of maintained asymmetry.
+
+
+Most configurations collapse before their persistence can propagate further. This is not because they are inferior. It is because entropy dominates interaction space.
+Failure is the default outcome.
+Filtering Without Agency
+As copies fail, some configurations remain.
+Nothing chooses them. Nothing prefers them. Nothing optimizes toward them.
+They persist because they have not yet collapsed.
+Structurally:
+
+
+      * Selection is the visible effect of repeated failure under constraint.
+      * No additional principle is required.
+No Improvement, Only Survival
+The persistence of some configurations over others creates the appearance of improvement.
+This appearance is misleading.
+What remains is not better. It is simply less exposed.
+What disappears is not worse. It is simply gone.
+The filtering effect does not imply direction, progress, or advancement. It reflects only differential duration under entropy.
+Variation Is Already Present
+Because copying is imperfect, no two boundaries are identical.
+Entropy erases precision at every replication. Differences accumulate automatically.
+Variation is therefore not a driver of filtering. It is a precondition that cannot be avoided.
+Once copying exists, variation exists. Once variation exists, failure differentiates outcomes.
+No additional assumption is needed.
+Selection Without Optimization
+Selection does not act on configurations.
+It is not a force. It is not a mechanism. It is not a principle.
+Selection is what remains after failure removes alternatives.
+What biology later measures as differential reproduction, fitness, or adaptation appears here as differential persistence under constraint.
+The language of optimization enters only downstream.
+The Geometry of Failure Space
+Failure space is vast. Success space is narrow.
+Most configurations terminate quickly. A few persist long enough to matter.
+This asymmetry explains both the rarity and the apparent coherence of persistent regimes. It does not require probability estimates or outcome predictions.
+It follows from geometry.
+Nothing New Has Appeared
+No purpose has entered. No goals have emerged. No agency has been introduced.
+Persistence continues to be governed by the same constraints.
+But something has become unavoidable.
+Once copying occurs under entropy, filtering by failure must follow.
+There is no alternative persistence regime.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 6 — Why Life Appears Inevitable (and Isn’t)
+By this point, no new structural behaviors remain to be introduced.
+Recursive persistence, cascades, boundary maintenance, copying, and failure-based filtering have all appeared as unavoidable consequences of persistence under entropy. Nothing in this sequence was optional. Each step followed because persistence had not yet failed.
+What remains is to explain why this sequence appears inevitable, purposeful, or progressive from the outside—despite being contingent, fragile, and dominated by failure at every stage.
+The Illusion of Direction
+When persistence reinforces itself, propagates, maintains boundaries, copies, and survives repeated failure, it leaves behind traces that endure longer than alternatives.
+Those traces accumulate.
+From a distance, this accumulation resembles direction:
+
+
+      * toward complexity, toward organization, toward stability.
+
+
+But this appearance is retrospective.
+Nothing moved toward anything. Everything moved until it stopped.
+What remains visible is not what was destined to succeed. It is what did not yet fail.
+Why Biology Looks Purposeful
+Biological systems appear goal-directed because they occupy a narrow region of persistence space where collapse has been delayed.
+
+
+      * Recursive persistence looks like self-preservation.
+      * Cascades look like function.
+      * Boundary maintenance looks like regulation.
+      * Copying looks like reproduction for its own sake.
+      * Filtering looks like improvement.
+These interpretations arise naturally when observing systems that have survived repeated exposure to entropy.
+Structurally, none of these require purpose.
+They are artifacts of duration under constraint.
+Inevitability Without Guarantee
+Life appears inevitable because the behaviors biology studies are the only behaviors that can persist once persistence succeeds at all.
+This does not mean life must appear. It does not mean success is likely. It does not mean outcomes are guaranteed.
+Most attempts fail. Extinction is common. Success is local and temporary.
+Inevitability here refers only to structure:
+
+
+      * If persistence continues long enough, it cannot avoid becoming recursive, propagating as cascades, maintaining boundaries, copying under finite capacity, and being filtered by failure.
+
+
+Whether any system achieves this sequence is an empirical matter.
+Rarity as Structure, Not Accident
+Life is rare not because it is forbidden, but because failure space is vast.
+Every step in the sequence introduces additional exposure points. Every extension multiplies opportunities for collapse.
+Persistence survives only by continually confronting new constraints.
+The result is a narrow corridor of admissible behavior surrounded by overwhelming failure.
+This rarity is not accidental. It is structural.
+No Privileged Domain
+Biology does not stand apart from chemistry or physics.
+It does not violate entropy. It does not escape constraint.
+It occupies a late, narrow, and temporary regime where persistence learned—briefly and locally—to defend itself.
+Nothing about this regime is exempt. Nothing about it is guaranteed.
+What Remains
+Biology is not special because it exists.
+It is special because persistence lasted long enough to matter, against overwhelming odds, without purpose, and without design.
+Entropy did not stop. Failure did not retreat. Constraint did not relax.
+What remains is simply what entropy could not finish—yet.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conclusion — Biology Reclassified
+This paper did not set out to explain life.
+It set out to identify what must already be true, chemically, for any biological behavior to be possible at all.
+Beginning from persistence under entropy, a sequence of constraints followed without discretion:
+
+
+      * persistence that does not reinforce its own conditions remains fragile,
+      * reinforcement propagates as continuity rather than isolated events,
+      * continuity requires boundary maintenance,
+      * maintained boundaries encounter finite capacity,
+      * capacity limits force copying,
+      * copying under entropy produces failure-based filtering.
+
+
+No step introduced a new principle. No step required teleology. No step assumed biology.
+What biology studies—metabolism, reproduction, selection—emerged as structural necessities, not biological primitives.
+What Biology Is (Structurally)
+Biology is not an exception to chemistry.
+It is not a separate explanatory grammar.
+Biology occupies a late, narrow regime of chemical persistence in which boundaries, cascades, copying, and filtering have aligned long enough to resist collapse.
+Its objects of study are not privileged.
+They are what entropy did not finish yet.
+This reframing does not diminish biology. It clarifies its foundations.
+Biology’s extraordinary complexity does not arise from special principles.
+It arises from prolonged exposure to failure without collapse.
+What This Framework Does—and Does Not—Claim
+This framework does not:
+
+
+      * predict where life will arise,
+      * specify which molecules will succeed,
+      * replace molecular biology, genetics, or evolutionary theory,
+      * deny the empirical achievements of the life sciences.
+
+
+It does:
+
+
+      * derive the structural requirements any persistent biological system must satisfy,
+      * explain why biological systems appear purposeful without invoking purpose,
+      * account for life’s rarity without appealing to improbability,
+      * relocate biology’s explanatory base within chemistry without reduction and without adding new primitives to Structural Flow.
+
+
+The framework is falsifiable at its level: show persistence without recursion, cascades without continuity, continuity without maintenance, maintenance without capacity limits, copying without filtering.
+If such systems exist, the framework must be revised.
+What Remains
+Life is not special because it exists.
+It is special because persistence endured long enough to matter—
+without intent, without exemption, and against overwhelming odds.
+Entropy did not retreat. Failure did not disappear. Constraint did not relax.
+What persists is simply what has not yet collapsed.
+That is not a story of triumph. It is a description of structure.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Declaration of Generative AI and AI-Assisted Technologies
+During the preparation and revision of this manuscript, the author used generative AI tools to assist with drafting support, language refinement, structural editing, and clarity. All substantive arguments, theoretical claims, scope decisions, and final editorial judgments are the author’s own. The author reviewed and approved the final manuscript and takes full responsibility for its content.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Biology as a Grammar of Chemical Persistence: 
+What Entropy Could Not Finish – A Structural Flow Perspective
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Signed,
+
+
+
+
+
+
+
+
+Rick
