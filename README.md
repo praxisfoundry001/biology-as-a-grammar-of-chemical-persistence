@@ -44,6 +44,6 @@ Natural companion artifacts in this lane include:
 - *Thermodynamics Inside Entropy: Why Most Chemical Structures Do Not Persist*
 
 ## Citation / DOI
-Zenodo DOI: pending
+Zenodo DOI: https://doi.org/10.5281/zenodo.19562411
 
 Full printable PDF available via DOI link after publication.
